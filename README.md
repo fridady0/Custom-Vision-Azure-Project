@@ -3,6 +3,13 @@
 # 1. Introduction
 This project demonstrates how to build a custom image classification model using Microsoft Azure's Custom Vision service. The project uses a fish dataset with multiple categories (Catfish, Goldfish, Mullet, Green Puffer, Bangus) to train, evaluate, and deploy a computer vision model.
 
+## 🎥 Project Demo 
+
+Check out the full video tutorial here:  
+👉 [Watch on YouTube](https://www.youtube.com/watch?v=PSHZJC1VvvI)  
+[![Watch the video](https://img.youtube.com/vi/PSHZJC1VvvI/0.jpg)](https://www.youtube.com/watch?v=PSHZJC1VvvI)
+
+
 # 2. Features
   - Upload and label custom image datasets
   - Train classification models (multiclass / multilabel)
@@ -97,7 +104,7 @@ This project follows the Contributor Covenant Code of Conduct. By participating,
 # 11. License
 This project is licensed under the MIT License. You are free to use, modify, and distribute it with proper attribution.
 
-# Acknowledgments
+# 🙏 Acknowledgments
 
 Special thanks to **Mark Daniel Lampa** for providing the Fish Dataset, which was used to train and evaluate the classification model in this project.
 
