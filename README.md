@@ -1,4 +1,4 @@
-# 🐟 Azure Custom Vision Project Documentation
+# 🐟 Azure Custom Vision Classification Project Documentation
 
 # 1. Introduction
 This project demonstrates how to build a custom image classification model using Microsoft Azure's Custom Vision service. The project uses a fish dataset with multiple categories (Catfish, Goldfish, Mullet, Green Puffer, Bangus) to train, evaluate, and deploy a computer vision model.
